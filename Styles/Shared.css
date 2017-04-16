@@ -1,0 +1,151 @@
+﻿/****************************** Layout ***********************/
+div.fullPage
+{
+    width:100%;
+    height:100%;
+}
+div.mainBody
+{
+    width: 100%;
+    height: auto; 
+    background-color:#F0FFFF;
+}
+div.LanguageBar
+{
+    text-align:right;
+    padding:10px 50px 0px 0px;
+    height:30px;
+}
+div.LanguageButton
+{
+    text-align:center;
+    font-weight:bolder;
+    font-size:16px;
+    height:auto;
+    width:75px;
+    margin-right:30px;
+    background-color:#DCDCDC;
+    float:right;
+    padding:5px;
+}
+.ChineseLanguageFont
+{
+    font-family: 华文楷体;
+}
+.EnglishLanguageFont
+{
+    font-size:12px;
+}
+
+div.CompanyTitle
+{
+    text-align:center;
+}
+div.CompanySubtitle
+{
+    text-align:center;text-indent:100px;
+}
+div.content
+{
+    padding-top:15px;
+    padding-bottom:50px;
+    font-size:1em;
+    width:80%;
+    margin: 20px auto 20px auto;
+    text-align:justify;
+}
+.footerChinese
+{
+    font-family: 华文楷体;
+}
+img.CompanyIcon
+{
+    width: 16px; height:16px;
+}
+
+
+/**************** Content *******************/
+div.ContentTitle
+{
+     text-align:center;
+     padding-top:30px;
+}
+div.ContentSubtitle
+{
+     text-decoration: underline;
+}
+div.ImageContainer
+{
+    text-align:center;
+    padding-bottom:40px;
+}
+/******************* Table ******************/
+table.mainBody
+{
+    width:75%;
+    border-style:none;
+    border-width:0px;
+    padding:0px;
+    margin: 20px auto 20px auto;
+}
+table.mainBody tbody tr td.left
+{
+    width:9px;
+    color:#766f7c;
+    border-style:none;
+    padding:0px;
+}
+table.mainBody tbody tr td.content
+{
+    width:99%;
+    border-style:none;
+    padding:0px;
+}
+table.mainBody tbody tr td.right
+{
+    width:9px;
+    color:#766f7c;
+    background-image: url('../Content/Images/background_vertical.png');
+    border-style:none;
+    padding:0px;
+}
+table.mainBody tbody tr td.corner
+{
+    width:9px;
+    color:#766f7c;
+    background-image: url('../Content/Images/background_corner.png');
+    background-repeat:repeat-y;
+    border-style:none;
+    border-width:0px;
+    padding:0px;
+    
+}
+table.mainBody tbody tr td.bottom
+{
+    width:9px;
+    color:#766f7c;
+    background-image: url('../Content/Images/background_horizontal.png');
+    background-repeat:repeat-x;
+    border-style:none;
+    padding:0px;
+    border-width:0px;
+    
+}
+
+table.contentTable
+{
+    margin-left:auto;margin-right:auto;
+    border:1px solid black;
+}
+table.contentTable tr td.header
+{
+    font-size: 1.3em;
+    font-weight: 600;
+    text-align:center;
+    padding:10px;
+}
+table.contentTable tr td
+{
+    padding:3px;
+    border:1px solid black;
+}

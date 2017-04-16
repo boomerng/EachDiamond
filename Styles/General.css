@@ -1,0 +1,24 @@
+﻿.alignCenter
+{
+    text-align:center;
+}
+.alignRight
+{
+    text-align:right;
+}
+.clearBoth
+{
+    clear:both;
+}
+.indent20
+{
+    text-indent:20px;
+}
+.positionRelative
+{
+    position:relative;
+}
+.positionAbsolute
+{
+    position:absolute;
+}

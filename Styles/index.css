@@ -1,0 +1,50 @@
+﻿div.indexMainBody
+{
+    width: 80%;
+    height: auto; 
+    background-color:#F0FFFF;
+    margin: 20px auto 20px auto;
+}
+div.indexContent
+{
+    background-color: #003366;
+    color: White;
+}
+div.indexCompanyTitle
+{
+    text-align:left;
+    width: 80%;
+    margin: 20px auto 20px auto;
+    padding-top:10px;
+    /*padding: 10px;
+    text-indent:7%;*/
+}
+div.indexCompanyLogo
+{
+    text-align: center; padding: 30px 0px 88px 0px;
+}
+div.indexLanguageBar
+{
+    text-align: right; 
+    padding: 0px 50px 98px 0px;
+}
+.indexLanguageButton
+{
+    text-align:center;
+    height:auto;
+    margin-right:30px;
+    float:right;
+}
+.indexLanguageButton a 
+{
+    text-decoration:none;
+}
+.ChineseFont
+{
+    font-family: 华文楷体;
+    font-size:25px;
+}
+.EnglishFont
+{
+    font-size:20px;
+}

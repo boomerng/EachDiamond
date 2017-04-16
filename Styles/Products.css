@@ -1,0 +1,31 @@
+﻿div.ProductContainer
+{
+    
+}
+div.ProductContainer .left
+{
+    padding-top:20px;
+    padding-bottom:20px;
+    float:left;
+    text-align:center;
+    width:20%;
+    min-width:300px;
+}
+div.ProductContainer .left img
+{
+    width:200px;
+    height:auto;
+}
+div.ProductContainer .right
+{
+    padding-top:20px;
+    padding-bottom:20px;
+    float:left;
+    text-align:left;
+    width:50%;
+    min-width:350px;
+}
+ul.productPoints
+{
+    list-style-type:disc;margin-top:0px;margin-bottom:0px;
+}

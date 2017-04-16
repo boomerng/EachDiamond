@@ -1,0 +1,2 @@
+(T5764) 03/31/16 22:07:43:516 Error( 198): CPanSocket::OnClose - receive close info 0, close the socket.
+(T5764) 03/31/16 22:07:43:548 Info ( 390): Delete the pan socket
