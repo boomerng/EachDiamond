@@ -80,13 +80,18 @@ div.ImageContainer
     padding-bottom:40px;
 }
 /******************* Table ******************/
+@media only screen and (min-width: 1024px) {
+    table.mainBody
+    {
+        width: 75%;
+        margin: 20px auto;
+    }
+}
 table.mainBody
 {
-    width:75%;
     border-style:none;
     border-width:0px;
     padding:0px;
-    margin: 20px auto 20px auto;
 }
 table.mainBody tbody tr td.left
 {
